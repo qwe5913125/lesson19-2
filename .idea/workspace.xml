@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="466e2b69-7d10-4cd1-9732-78a6e826dc69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +40,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1404" />
-    <option name="y" value="366" />
+    <option name="x" value="100" />
+    <option name="y" value="519" />
     <option name="width" value="1733" />
     <option name="height" value="1417" />
   </component>
@@ -122,7 +122,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1404" y="366" width="1733" height="1417" extended-state="0" />
+    <frame x="215" y="488" width="1733" height="1417" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
